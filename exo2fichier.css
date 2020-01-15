@@ -1,0 +1,178 @@
+/*genero*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: #030002 !important;
+    height: 125px;
+    padding: 15px 120px 0px 120px;
+}
+.search{
+    float: right;
+}
+#clear{
+    clear: both;
+    margin-bottom: 10px;
+}
+section{
+    padding: 0px;
+    margin: 0px;
+}
+p{
+    font-weight: bold;
+}
+small{
+    font-size: 14px;
+}
+ul{
+    list-style: none;
+}
+label{
+   background-color:red;
+   margin: 5px;
+}
+#myCarousel{
+    padding: 0px;
+}
+footer{
+    position: relative;
+    bottom: 0px;
+    margin:750px 0px 0px 0px ;
+
+}
+a{
+    text-decoration: none;
+    color: #fffffffa !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+input{
+    padding: 3px;
+    background-color: #2e2e2e;
+    color: #fceff1;
+    line-height: 25px;
+    margin-right: 3px;
+}
+input::placeholder{
+    background-color: rgb(255,255, 255);
+    color: rgb(255,255, 255);
+}
+li{
+    float: left;
+    list-style: none;
+    text-align: center;
+}
+#onlyS{
+    height: 150px;
+}
+/*header*/
+
+header h3{
+    float: left;
+    font-weight: bold;
+    color: #840b16;
+    font-family: 'Bradley Hand',cursive;
+}
+header nav{
+    margin-left: 300px;
+    padding: 70px 0px;
+}
+header article{
+    float: right;
+    margin-top: 32px;
+}
+
+header nav ul li {
+    margin-right:35px ;
+    list-style: none;
+}
+span{
+    color: white;
+}
+header article label{
+    padding: 4.5px;
+
+}
+/* carousel*/
+#laLimit{
+    height: 100px !important;
+}
+.container-fluid{
+    height: 200px !important;
+    padding: 0px !important;
+    clear: both;
+   background-color: tomato;
+}
+#leJoin{position: relative;
+    height: 100px;
+    width: 400px;
+    top: 200px;
+    left: 800px;
+    padding-top: 5px;
+    padding-bottom: 30;
+    text-align: center;
+
+}
+#grand{
+    font-size: 50px;
+    text-transform: uppercase;
+    color: white;
+    
+}
+p small{
+    padding-bottom: 50px;
+    line-height: normal;
+}
+p a{
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+/*section 2*/
+
+
+/*footer*/
+
+
+footer{
+    height: 370px;
+
+    background-color: black;
+}
+article{
+    
+    margin-left: 80px;
+    text-align: center;
+    margin-right: 80px;
+    color: #fff;
+}
+ul{
+    display: inline-flex;
+    flex-flow: row;
+    justify-content: center;
+    list-style: none;
+}
+img{
+    display: relative;
+    left: 120px;
+    bottom: 80px;
+    height: 100px;
+    width: 90px;
+    
+}
+#justNoir{
+    background-color: black;
+    text-align: center;
+    padding-top: 1px;
+}
+h5{
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #fff !important;
+}
+.unPeuGrand{
+    font-size: 17px;
+}
+#espace{
+    margin-bottom: 50px;
+}
